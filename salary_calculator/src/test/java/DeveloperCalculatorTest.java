@@ -1,3 +1,5 @@
+import org.example.entities.Employee;
+import org.example.enums.Office;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
