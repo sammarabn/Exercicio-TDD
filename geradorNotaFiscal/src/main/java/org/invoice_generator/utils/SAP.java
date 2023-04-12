@@ -1,6 +1,6 @@
-package utils;
+package main.java.org.invoice_generator.utils;
 
-import model.Invoice;
+import main.java.org.invoice_generator.model.Invoice;
 
 public class SAP {
     public void send(Invoice invoice) {

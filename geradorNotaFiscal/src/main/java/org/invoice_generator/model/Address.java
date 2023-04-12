@@ -1,4 +1,4 @@
-package model;
+package main.java.org.invoice_generator.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
