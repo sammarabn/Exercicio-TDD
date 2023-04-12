@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e285175-0232-468e-aa44-84d03968e243" name="Changes" comment="Inserindo correcoes de design">
-      <change beforePath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/invoice_generator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/invoice_generator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/DBACalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/DBACalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/DeveloperCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/DeveloperCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/ManagerCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/ManagerCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/TesterCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/TesterCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/enums/Office.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/enums/Office.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/DBACalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/DBACalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/DeveloperCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/DeveloperCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/ManagerCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/ManagerCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/TesterCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/TesterCalculator.java" afterDir="false" />
+    <list default="true" id="1e285175-0232-468e-aa44-84d03968e243" name="Changes" comment="Resolvendo conflitos">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/SAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/SAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/Smtp.java" beforeDir="false" afterPath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/Smtp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -58,6 +45,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -145,7 +133,8 @@
       <workItem from="1681175296282" duration="691000" />
       <workItem from="1681235435648" duration="1740000" />
       <workItem from="1681237231838" duration="170000" />
-      <workItem from="1681260808073" duration="3505000" />
+      <workItem from="1681260808073" duration="4148000" />
+      <workItem from="1681299009735" duration="870000" />
     </task>
     <task id="LOCAL-00001" summary="Inserindo correcoes de design">
       <created>1681263956821</created>
@@ -154,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681263956821</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inserindo correcoes de design e estrutura do projeto">
+      <created>1681264611294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681264611294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Resolvendo conflitos">
+      <created>1681264737451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681264737451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +176,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inserindo correcoes de design" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserindo correcoes de design" />
+    <MESSAGE value="Inserindo correcoes de design e estrutura do projeto" />
+    <MESSAGE value="Resolvendo conflitos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolvendo conflitos" />
   </component>
 </project>
