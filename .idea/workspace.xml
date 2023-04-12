@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e285175-0232-468e-aa44-84d03968e243" name="Changes" comment="Inserindo correcoes de design">
+      <change beforePath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/invoice_generator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/invoice_generator/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/DBACalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/DBACalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/DeveloperCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/DeveloperCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/ManagerCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/ManagerCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/entities/TesterCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/entities/TesterCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/main/java/org/example/enums/Office.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/main/java/org/salary_calculator/enums/Office.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/DBACalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/DBACalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/DeveloperCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/DeveloperCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/ManagerCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/ManagerCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary_calculator/src/test/java/TesterCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/geradorNotaFiscal/src/test/java/salary_calculator/TesterCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OFfFEFInOIYlbnEhPdrqOXuL1s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal\src\test\java\salary_calculator" />
+      <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal\src\main\java\org\salary_calculator" />
+      <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal\src\main.java.org.invoice_generator" />
+      <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal" />
+      <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal\src\main.java.org.exemple" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DeveloperCalculatorTest">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise_2_vev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.invoice_generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.invoice_generator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.invoice_generator.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeveloperCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise_2_vev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.salary_calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.salary_calculator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.salary_calculator.DeveloperCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise_2_vev" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerCalculator" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise_2_vev" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesterCalculator" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeveloperCalculatorTest" />
+        <item itemvalue="JUnit.ManagerCalculator" />
+        <item itemvalue="JUnit.TesterCalculator" />
+        <item itemvalue="JUnit.CalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e285175-0232-468e-aa44-84d03968e243" name="Changes" comment="" />
+      <created>1681161147140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681161147140</updated>
+      <workItem from="1681161151239" duration="6245000" />
+      <workItem from="1681175296282" duration="691000" />
+      <workItem from="1681235435648" duration="1740000" />
+      <workItem from="1681237231838" duration="170000" />
+      <workItem from="1681260808073" duration="3505000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inserindo correcoes de design">
+      <created>1681263956821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681263956821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inserindo correcoes de design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserindo correcoes de design" />
+  </component>
+</project>
