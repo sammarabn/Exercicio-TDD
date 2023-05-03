@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e285175-0232-468e-aa44-84d03968e243" name="Changes" comment="Resolvendo conflitos">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1e285175-0232-468e-aa44-84d03968e243" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/SAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/SAP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/Smtp.java" beforeDir="false" afterPath="$PROJECT_DIR$/V&amp;V_E2/src/main/java/org/invoice_generator/utils/Smtp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2_vev/main/java/org/invoice_generator/utils/SAP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2_vev/main/java/org/invoice_generator/utils/SAP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercise_2_vev/main/java/org/invoice_generator/utils/Smtp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercise_2_vev/main/java/org/invoice_generator/utils/Smtp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,22 @@
       <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal\src\main.java.org.exemple" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DeveloperCalculatorTest">
+  <component name="RunManager" selected="JUnit.CalculatorTest (1)">
+    <configuration name="CalculatorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise_2_vev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.functionalTests.invoice_generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.functionalTests.invoice_generator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.functionalTests.invoice_generator.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2_vev" />
       <extension name="coverage">
@@ -114,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest (1)" />
         <item itemvalue="JUnit.DeveloperCalculatorTest" />
         <item itemvalue="JUnit.ManagerCalculator" />
         <item itemvalue="JUnit.TesterCalculator" />
