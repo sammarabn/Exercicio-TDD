@@ -33,13 +33,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/gabriel.medeiros/dev/intellij-workspace/TDD_Exercise"
-  }
-}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal\src\test\java\salary_calculator" />
@@ -49,7 +42,7 @@
       <recent name="C:\Users\Pichau\GitLab\geradorNotaFiscal\geradorNotaFiscal\src\main.java.org.exemple" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest (1)">
+  <component name="RunManager" selected="JUnit.TesterCalculator">
     <configuration name="CalculatorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2_vev" />
       <extension name="coverage">
@@ -65,40 +58,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DBACalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2_vev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.invoice_generator.*" />
+          <option name="PATTERN" value="test.java.functionalTests.salary_calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.java.invoice_generator" />
-      <option name="MAIN_CLASS_NAME" value="test.java.invoice_generator.CalculatorTest" />
+      <option name="PACKAGE_NAME" value="test.java.functionalTests.salary_calculator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.functionalTests.salary_calculator.DBACalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeveloperCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DeveloperCalculatorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2_vev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.salary_calculator.*" />
+          <option name="PATTERN" value="test.java.functionalTests.salary_calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.java.salary_calculator" />
-      <option name="MAIN_CLASS_NAME" value="test.java.salary_calculator.DeveloperCalculatorTest" />
+      <option name="PACKAGE_NAME" value="test.java.functionalTests.salary_calculator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.functionalTests.salary_calculator.DeveloperCalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagerCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ManagerCalculator (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2_vev" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ManagerCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.functionalTests.salary_calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.functionalTests.salary_calculator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.functionalTests.salary_calculator.ManagerCalculator" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,8 +105,14 @@
     </configuration>
     <configuration name="TesterCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exercise_2_vev" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesterCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.functionalTests.salary_calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.functionalTests.salary_calculator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.functionalTests.salary_calculator.TesterCalculator" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest (1)" />
-        <item itemvalue="JUnit.DeveloperCalculatorTest" />
-        <item itemvalue="JUnit.ManagerCalculator" />
         <item itemvalue="JUnit.TesterCalculator" />
-        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.ManagerCalculator (1)" />
+        <item itemvalue="JUnit.DeveloperCalculatorTest (1)" />
+        <item itemvalue="JUnit.DBACalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest (1)" />
       </list>
     </recent_temporary>
   </component>

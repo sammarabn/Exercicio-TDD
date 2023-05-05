@@ -1,7 +1,8 @@
 package test.java.functionalTests.salary_calculator;
 
-import org.example.entities.Employee;
-import org.example.enums.Office;
+
+import main.java.org.salary_calculator.entities.Employee;
+import main.java.org.salary_calculator.enums.Office;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
